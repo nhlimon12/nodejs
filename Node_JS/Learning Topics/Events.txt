@@ -1,0 +1,18 @@
+		#_#Events In Node JS:
+* Requiring events module and making an instance of EventEmitter
+* Creating event handlers
+* Add listeners to events
+* Diffrent process of adding listeners to events.
+* Firing events
+* Multiple adding and and emitting / firing
+* Removing listeners in different ways
+* Getting default max listeners
+* Changing the number of default max listeners value
+* Setting own max listeners number
+* Getting the updated number of max listeners
+* Getting the listeners array of an specific event
+* Getting the number of listeners of an specific event
+* Changing the default order of listeners
+* Special events like newListener, removeListener
+* Working with error event
+* Asynchronous events

@@ -1,0 +1,9 @@
+> Different methods of creating buffers in Node JS 🙃
+> Printing buffer and it's length 🙃
+> Writing data to a buffer 🙃
+> Reading data from a buffer 🙃
+> Convert Buffer to JSON 🙃
+> Checking if an instance is a buffer or not 🙃
+> Copying buffer 🙃
+> Slicing data from a buffer 🙃
+> Concatenate two or more buffers 🙃
