@@ -102,3 +102,4 @@ console.log("Okay Cool");
 // const {name2 : ee = "Hi there", age} = myObject;
 // console.log(ee);
 // console.log(age);
+console.log('New Line');
